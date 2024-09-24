@@ -4,32 +4,32 @@ This project is a web application developed using Java Servlets, JDBC, HTML, CSS
 
 Features: 
 
-User Authentication: Secure login and registration functionalities.
+  User Authentication: Secure login and registration functionalities.
 
-Data Management: Perform CRUD operations on database records.
+  Data Management: Perform CRUD operations on database records.
 
 
 Technologies Used:
 
-Java: Core programming language for server-side logic.
+  Java: Core programming language for server-side logic.
 
-Servlets: For handling HTTP requests and responses.
+  Servlets: For handling HTTP requests and responses.
 
-JDBC: Java Database Connectivity for database interactions.
+  JDBC: Java Database Connectivity for database interactions.
 
-HTML/CSS: For structuring and styling the web pages.
+  HTML/CSS: For structuring and styling the web pages.
 
-JavaScript: For enhancing interactivity on the client side.
+  JavaScript: For enhancing interactivity on the client side.
 
-MySQL: For storing data.  
+  MySQL: For storing data.  
 
 
 Prerequisites
 
-Java Development Kit (JDK)
+  Java Development Kit (JDK)
+  
+  Apache Tomcat 
 
-Apache Tomcat 
+  MySQL
 
-MySQL
-
-A web browser for accessing the application
+  A web browser for accessing the application
